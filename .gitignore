@@ -11,3 +11,4 @@ dist/
 build/
 *.egg-info/
 .gradio/
+.vscode/settings.json
